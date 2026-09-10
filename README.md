@@ -14,6 +14,7 @@ Consists of **one** element, but as you can see `it` also requires:
 
 ![Alt text](Door/how-to-make-profile.png "how to recreate?")
 ![Alt text](Door/hinge.png "how to recreate hinge?")
+#### Plate is 3mm thick
 ### How does proposed alternative look like?
 ![Alt text](Door/overview.png "3D printed alternative")
 As you can see cuts for M2.5 nuts are triangular to cut accelerate/decelerate ops. for faster printing. Those nut don't get fasten enough to maximize contact area.
